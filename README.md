@@ -1,4 +1,4 @@
-#H1 CREDITS
+# H1 CREDITS
 RESTful service to manage user loans
 
 # H2 Getting Started
